@@ -2,4 +2,4 @@ Cmd acip npm i atmaniz yeterli olacaktir. Bir hata ile karsılasırsanız; <@925
 
 
 
-fork ve star atmayı unutmayın. <3
+
